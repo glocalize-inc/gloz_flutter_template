@@ -25,16 +25,19 @@ class DefaultFirebaseOptions {
       case TargetPlatform.iOS:
         return ios;
       case TargetPlatform.macOS:
-        return macos;
+        throw UnsupportedError(
+          'DefaultFirebaseOptions have not been configured for macos - '
+              'you can reconfigure this by running the FlutterFire CLI again.',
+        );
       case TargetPlatform.windows:
         throw UnsupportedError(
           'DefaultFirebaseOptions have not been configured for windows - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
+              'you can reconfigure this by running the FlutterFire CLI again.',
         );
       case TargetPlatform.linux:
         throw UnsupportedError(
           'DefaultFirebaseOptions have not been configured for linux - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
+              'you can reconfigure this by running the FlutterFire CLI again.',
         );
       default:
         throw UnsupportedError(
@@ -64,18 +67,6 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCup6drDfd9ycPVyFe2DWl2O2jT8ed_pfo',
-    appId: '1:19780090882:ios:c3af683c90ddf4399afb1b',
-    messagingSenderId: '19780090882',
-    projectId: 'glocalize',
-    databaseURL: 'https://glocalize-default-rtdb.firebaseio.com',
-    storageBucket: 'glocalize.appspot.com',
-    androidClientId: '19780090882-3d4ovfc3uq18tpshq085dd70ogh7rpd1.apps.googleusercontent.com',
-    iosClientId: '19780090882-knts1i35l4ebgs1so6ai5s65eops04r2.apps.googleusercontent.com',
-    iosBundleId: 'com.example.glozAllClientExample',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyCup6drDfd9ycPVyFe2DWl2O2jT8ed_pfo',
     appId: '1:19780090882:ios:c3af683c90ddf4399afb1b',
     messagingSenderId: '19780090882',
