@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "19780090882",
+    "firebase_url": "https://glocalize-default-rtdb.firebaseio.com",
+    "project_id": "glocalize",
+    "storage_bucket": "glocalize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19780090882:android:38a45200380dc3c39afb1b",
+        "android_client_info": {
+          "package_name": "com.example.gloz_all_client_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19780090882-ou749vgkjsc9ffbuvv9dqd9cp45qfn2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh4QGXBcADV0PBGTGt3Lj2L3OAzYfevX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117059384794074401370",
+              "client_type": 3
+            },
+            {
+              "client_id": "19780090882-78if30pq32pbice9r74gj89sk3cpi10j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glozinc.gloz",
+                "app_store_id": "1629837301"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19780090882:android:6926b69d179aebd29afb1b",
+        "android_client_info": {
+          "package_name": "com.glozinc.gloz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19780090882-3d4ovfc3uq18tpshq085dd70ogh7rpd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glozinc.gloz",
+            "certificate_hash": "24e782ff30e2579de3e0ac0a70733a288aa41cb1"
+          }
+        },
+        {
+          "client_id": "19780090882-ck966279uivfcj82br44j32umtj3nea8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glozinc.gloz",
+            "certificate_hash": "4be0e22cac9512d09124af7058dbb6c27c01812a"
+          }
+        },
+        {
+          "client_id": "19780090882-e6e08pvnjkl7os77umettb07qs8lpq28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glozinc.gloz",
+            "certificate_hash": "59403f358f95aaa0d28c45b59f114d82d96ef1a1"
+          }
+        },
+        {
+          "client_id": "19780090882-ou749vgkjsc9ffbuvv9dqd9cp45qfn2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh4QGXBcADV0PBGTGt3Lj2L3OAzYfevX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117059384794074401370",
+              "client_type": 3
+            },
+            {
+              "client_id": "19780090882-78if30pq32pbice9r74gj89sk3cpi10j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glozinc.gloz",
+                "app_store_id": "1629837301"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

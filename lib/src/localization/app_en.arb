@@ -1,0 +1,8 @@
+{
+  "appTitle": "My App",
+  "settings": "Settings",
+  "systemTheme": "System Theme",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
