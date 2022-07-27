@@ -1,10 +1,4 @@
 /// Platform API configs
-// const host = 'localhost:3000';
-// const serverProto = 'http';
-const host = 'platform.glozinc.com';
-const serverProto = 'https';
-const uriPrefix = '$serverProto://$host';
-
 const Map<String, String> publicApiHeaders = {
   'Accept': 'application/json; plain/text',
   'Content-Type': 'application/json; charset=UTF-8'
