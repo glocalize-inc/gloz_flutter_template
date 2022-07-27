@@ -1,6 +1,12 @@
 # gloz_flutter_template
 
-A new Flutter project.
+1. Clone this repository
+2. Open this project in Android Studio
+3. Replace "gloz_flutter_template" to "your project name"(Short commend: `⌘ + ⇧ + R`)
+4. Replace google-services.json file
+5. Replace GoogleService-Info.plist file
+   1. Open iOS module in Xcode
+   2. Replace the file
 
 ## Getting Started
 
