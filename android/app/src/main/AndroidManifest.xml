@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.gloz_all_client_example">
+    package="com.example.gloz_flutter_template">
    <application
-        android:label="gloz_all_client_example"
+        android:label="gloz_flutter_template"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

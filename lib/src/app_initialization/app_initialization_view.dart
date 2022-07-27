@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:gloz_all_client_example/src/globals/navigator.dart';
-import 'package:gloz_all_client_example/src/main/main_view.dart';
+import 'package:gloz_flutter_template/src/globals/navigator.dart';
+import 'package:gloz_flutter_template/src/main/main_view.dart';
 
 import '../firebase/init_firebase.dart';
 

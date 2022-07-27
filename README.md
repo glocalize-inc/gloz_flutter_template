@@ -1,4 +1,4 @@
-# gloz_all_client_example
+# gloz_flutter_template
 
 A new Flutter project.
 

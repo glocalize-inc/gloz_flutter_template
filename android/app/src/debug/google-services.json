@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:77933769008:android:dcebcc33992347af0518f5",
         "android_client_info": {
-          "package_name": "com.example.gloz_all_client_example"
+          "package_name": "com.example.gloz_flutter_template"
         }
       },
       "oauth_client": [
