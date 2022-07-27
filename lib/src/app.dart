@@ -5,9 +5,9 @@ import 'package:gloz_flutter_template/src/app_initialization/app_initialization_
 import 'package:gloz_flutter_template/src/globals/navigator.dart';
 import 'package:gloz_flutter_template/src/main/main_view.dart';
 
-import 'sample_feature/sample_item_details_view.dart';
-import 'settings/settings_controller.dart';
-import 'settings/settings_view.dart';
+import 'features/sample_feature/sample_item_details_view.dart';
+import 'features/settings/settings_controller.dart';
+import 'features/settings/settings_view.dart';
 
 /// The Widget that configures your application.
 class MyApp extends StatelessWidget {
